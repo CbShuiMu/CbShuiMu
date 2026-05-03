@@ -1,7 +1,7 @@
 <div id="img" align="center">
 
 [![WEBSITE](https://img.shields.io/badge/WEBSITE-CbShuiMu-white)](https://shuimu.co.nz)
-[![BILIBILI](https://img.shields.io/badge/BILIBILI-Cb%E6%B0%B4%E6%AF%8D-pink)](https://space.bilibili.com/5434656)
+[![Bilibili](https://img.shields.io/badge/BILIBILI-Cb%E6%B0%B4%E6%AF%8D-pink)](https://space.bilibili.com/5434656)
 [![Python](https://img.shields.io/badge/Code-Python-blue)](https://www.python.org/)
 ![JS](https://img.shields.io/badge/Code-JavaScript-yellow)
 
